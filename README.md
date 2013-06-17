@@ -9,5 +9,5 @@ allows you to:
 * cross-reference entries across time
 * categorize entry types
 * edit entry types
-* cross-reference entries with tags
+* cross-reference typed entries with tags
 * edit rich text that is stored in non-propeietary HTML with ascii text support
