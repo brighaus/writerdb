@@ -1,0 +1,10 @@
+1) update ./app/application/config/couchdb.php
+    set couch_database
+    set couch_database_remote
+
+2 ) update ./app/application/config/config.php
+    set base_url
+
+
+
+3) create remote target for replication
